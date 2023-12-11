@@ -10,6 +10,6 @@
 
 
 ## 
-npm create-react-app image-editor - to start the app.
-npm run build - to make changes in the app.
-npm start - to start the app.
+npm create-react-app image-editor - to start the app./n
+npm run build - to make changes in the app./n
+npm start - to start the app./n
